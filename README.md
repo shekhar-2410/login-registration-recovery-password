@@ -48,13 +48,13 @@ Follow these steps to set up and run the project locally:
    cd ../frontend
    npm install
 
-   ## Start the backend server:
+ ## Start the backend server:
    cd server
-npm start/npm run server
+   npm start/npm run server
 
 ## Start the frontend application:
   cd client
-npm start
+  npm start
 
 ## Contributing
 If you'd like to contribute to this project, please follow the standard GitHub flow:
